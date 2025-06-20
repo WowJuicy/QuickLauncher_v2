@@ -1,0 +1,63 @@
+l,lg,lghub,log,logitech,logitech hub,logitechhub=C:\Program Files\LGHUB\lghub.exe
+face,facebook,fb=https://www.facebook.com
+gh=https://github.com
+e,eg,epic,epic games,epicgames=C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win64\EpicGamesLauncher.exe
+fil,film,filmora=C:\Users\yaggi\AppData\Local\Wondershare\Wondershare Filmora\12.5.15.4691\Wondershare Filmora.exe
+v,vs,vscode=C:\Users\yaggi\AppData\Local\Programs\Microsoft VS Code\Code.exe
+down,downloads=src/downloads.bat
+gm,gmg,green,green man gaming,greenmangaming=https://www.greenmangaming.com/search?query={}
+r,reddit=https://www.reddit.com/search/?q={}
+d2 foundry,d2f,d2foundry=https://d2foundry.gg
+gmail,mail=https://mail.google.com/mail
+explorer,file,files=src\explorer.bat
+left,left for dead,leftfordead,lfd,lfd2=C:\Program Files (x86)\Steam\steamapps\common\Left 4 Dead 2\left4dead2.exe
+ig,insta,instagram=https://www.instagram.com
+rl,rocket league,rocketleague=C:\Program Files\Epic Games\rocketleague\Binaries\Win64\RocketLeague.exe
+off,sd,shut down,shutdown=src\shutdown.bat
+m,mc,minecraft=C:\XboxGames\Minecraft Launcher\Content\Minecraft.exe
+gg,light,light gg,lightgg=https://www.light.gg
+cal,calc,calculator=src/calculator.bat
+k,krita=C:\Program Files\Krita (x64)\bin\krita.exe
+ym,youtube music,youtubemusic,ytm=https://music.youtube.com/search?q={}
+mis,misode=https://misode.github.io/
+note,notepad,np,pad=src/notepad.bat
+chat,chatgpt,gpt=https://chatgpt.com
+t,ttv,twi,twitch=https://www.twitch.tv/search?term={}
+josh,jsf,shared,shared files=\\ws02\SP02\Shared File Storage\Josh Files
+docs,gdoc,google docs,googledocs=https://docs.google.com/spreadsheets
+cf,curse,curse forge,curseforge=C:\Users\yaggi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\CurseForge.lnk
+fortnite tracker,fortnitetracker,forttracker,ft,tracker=https://fortnitetracker.com
+grok=https://grok.com/chat
+y,youtube,yt=https://youtube.com/search?q={}
+keywords=src/keywords.txt
+rec,recycle,recycle bin,recyclebin=src/recycle.bat
+armor,d2 armor,d2 armor picker,d2a,d2armor,d2armorpicker,da=https://d2armorpicker.com
+task,task manager,taskmanager,tm=src\taskmanager.bat
+d2,destiny,destiny 2,destiny2=C:\Program Files (x86)\Steam\steamapps\common\Destiny 2\destiny2launcher.exe
+w=C:\Java\QuickLauncher_v2\https:\minecraft.wiki
+key=C:\Java\QuickLauncher_v2\src\keywords.txt
+d2 doc,d2doc,d2s,destiny spreadsheet,destinyspreadsheet,doc=https://docs.google.com/spreadsheets/d/1JM-0SlxVDAi-C6rGVlLxa-J1WGewEeL8Qvq4htWZHhY
+j,java=C:\Java
+m wiki,mc wiki,mcw,mcwiki,minecraft wiki,mw,mwiki,wiki=https://minecraft.wiki/{}
+drive,gdrive,google drive,googledrive=https://drive.google.com/drive/home
+mcs,mcstacker,stack,stacker=https://mcstacker.net/1.21.6.php
+git hub,github=https://github.com/{}
+d2q=https://wowjuicy.github.io/Destiny2Queue
+clash,clashwiki,coc,cocwiki=https://clashofclans.fandom.com/{}
+ms,ms paint,msp,mspaint,p,paint=src/paint.bat
+d,dis,discord=C:\Users\yaggi\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
+f,fn,fortnite=C:\Program Files\Epic Games\Fortnite\FortniteGame\Binaries\Win64\FortniteClient-Win64-Shipping_EAC_EOS.exe
+g,google=https://www.google.com/search?q={}
+cb,chunk base,chunkbase=https://www.chunkbase.com/apps
+tellraw,tellraw gen,tellraw generator,tellrawgen,tr=https://www.minecraftjson.com
+n,nv,nvidia=C:\Program Files\NVIDIA Corporation\NVIDIA App\CEF\NVIDIA App.exe
+mcf,mcfiles,minecraft files=C:\Users\yaggi\AppData\Roaming\.minecraft
+w dirt=C:\Java\QuickLauncher_v2\https:\minecraft.wiki\Dirt
+tweet,twit,twitter,x=https://x.com
+u,unity=C:\Program Files\Unity Hub\Unity Hub.exe
+ter,terraria=https://terraria.fandom.com/{}
+o,obs=C:\Program Files\obs-studio\bin\64bit\obs64.exe
+site,web,website,ws=https://{}.com
+s,steam=C:\Program Files (x86)\Steam\steam.exe
+a,aud,audacity=C:\Program Files\Audacity\Audacity.exe
+c,co,copilot=https://copilot.microsoft.com
